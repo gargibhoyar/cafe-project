@@ -1,0 +1,18 @@
+body{
+	background-color: #94f2e4;
+}
+
+
+.jumbotron{
+	clip-path: polygon(50% 0%, 100% 0, 100% 43%, 100% 100%, 57% 84%, 39% 100%, 3% 87%, 0% 43%, 0 0);
+	background-image: linear-gradient( #fc00ff ,#00dbde); 
+
+
+}
+h1{
+	text-align: center;
+}
+#gargi{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
